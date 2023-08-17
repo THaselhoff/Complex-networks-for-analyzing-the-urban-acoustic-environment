@@ -7,9 +7,9 @@ Repsoitory to store the preprint, analyses and code for Haselhoff et al. 2023.
 
 :arrow_forward: **Appendix C1.py** -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
 
-:arrow_forward: **Appendix C2.py** -> Refurbished code and functions to apply Frequency Correlation Matrices based Complex Networks for data from the urban acoustic environment (with demo on test_data.csv).
+:arrow_forward: **Appendix C2.py** -> Refurbished code and functions to apply Frequency Correlation Matrices based Complex Networks for sound data from the (urban) acoustic environment (including a demo on test_data.csv). The demo includes additional network measures (assortativity, average shortest path length, link Density & modularity) from the NetworkX library (Aric et al., 2008) as well as a visualization for greedy communities.
 
-:clipboard:	 **test_data.csv** -> Example Dataset of normalized and de-noised frequency spectra (s. Haselhoff et al. 2023: 2.1 & 3.1) for one day of recordings from one recording device. Use this for a straight forward application for functions in Appendix C.
+:clipboard:	 **test_data.csv** -> Example Dataset of normalized and de-noised power spectra (s. Haselhoff et al. 2023: 2.1 & 3.1) for recordings of one day from one recording device. Use this for a straight forward application for the demo in Appendix C2.
 
 
 ## Abstract
@@ -18,4 +18,6 @@ The urban acoustic environment (AE) provides comprehensive acoustic information 
 We demonstrate the scope of the proposed method, using one of the world’s most extensive longitudinal audio datasets, considering 3-min audio recordings (n = 319,385 ≙ 665 days) from 23 sites. We construct networks from hour-of-day specific audio recordings for each site. We show that the average shortest path length (ASPL) as an indicator for dominance of sound sources in the urban AE exhibits spatial- and temporal-specific patterns between the sites, which allows us to identify four to seven clusters of distinct urban AEs. To validate our findings, we use the land use mix around each site as a proxy for the AE and compare those between and within the clusters. The identified clusters show high intra- and low inter-cluster correlations of ASPL diel cycles as well as strong intra-similarities in land use mix. Our results indicate that complex networks are a promising approach to analyze large-scale audio data, expanding our understanding of the time-frequency domain of the urban AE.
 
 ### Literature
+_Aric A. Hagberg, Daniel A. Schult and Pieter J. Swart, “Exploring network structure, dynamics, and function using NetworkX”, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008._
+
 _Haselhoff, T., Braun, T., Fiebig, A., Hornberg, J., Lawrence, B. T., Marwan, N., & Moebus, S. (2023). Complex networks for analyzing the urban acoustic environment. Earth ArXiv. https://doi.org/10.31223/X5J08D._
