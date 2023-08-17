@@ -1,9 +1,9 @@
 # Complex networks for analyzing the urban acoustic environment
 
-Repsoitory to store the Preprint, analyses and code for Haselhoff et al. 2023.
+Repsoitory to store the preprint, analyses and code for Haselhoff et al. 2023.
 
 ## Files
-:page_facing_up: **Complex networks for analyzing the urban acoustic environment.pdf** -> Preprint Manucript.
+:page_facing_up: **Complex networks for analyzing the urban acoustic environment.pdf** -> Preprint Manuscript.
 
 :arrow_forward: **AnalysesCode.py** -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
 
