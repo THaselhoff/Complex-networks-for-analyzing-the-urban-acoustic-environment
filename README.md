@@ -3,14 +3,13 @@
 Repsoitory to store the Preprint, analyses and code for Haselhoff et al. 2023.
 
 ## Files
+:page_facing_up: **Complex networks for analyzing the urban acoustic environment.pdf** -> Preprint Manucript.
 
-**Complex networks for analyzing the urban acoustic environment.pdf** -> Preprint Manucript.
+:arrow_forward: **AnalysesCode.py** -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
 
-**AnalysesCode.py** -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
+:arrow_forward: **Appendix C.py** -> Refurbished code and functions to apply Frequency Correlation Matrices based Complex Networks for data from the urban acoustic environment (with demo on test_data.csv).
 
-**Appendix C.py** -> Refurbished code and functions to apply Frequency Correlation Matrices based Complex Networks for data from the urban acoustic environment (with demo on test_data.csv).
-
-**test_data.csv** -> Example Dataset of normalized and de-noised frequency spectra (s. Haselhoff et al. 2023: 2.1 & 3.1) for one day of recordings from one recording device. Use this for a straight forward application for functions in Appendix C.
+:clipboard:	 **test_data.csv** -> Example Dataset of normalized and de-noised frequency spectra (s. Haselhoff et al. 2023: 2.1 & 3.1) for one day of recordings from one recording device. Use this for a straight forward application for functions in Appendix C.
 
 
 ## Abstract
