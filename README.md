@@ -3,13 +3,13 @@
 Repsoitory to store the preprint, analyses and code for Haselhoff et al. 2023.
 
 ## Files
-[:page_facing_up: **Complex networks for analyzing the urban acoustic environment.pdf**](https://eartharxiv.org/repository/view/5371/) -> Preprint Manuscript.
+:page_facing_up: [**Complex networks for analyzing the urban acoustic environment.pdf**](https://eartharxiv.org/repository/view/5371/) -> Preprint Manuscript.
 
-:arrow_forward: **Appendix C1.py** -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
+:arrow_forward: [**Analyses.py**](https://github.com/THaselhoff/Complex-networks-for-analyzing-the-urban-acoustic-environment/blob/main/Analyses.py) -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
 
-:arrow_forward: **Appendix C2.py** -> Refurbished code and functions to apply Frequency Correlation Matrices based Complex Networks for sound data from the (urban) acoustic environment (including a demo on test_data.csv). The demo includes additional network measures (assortativity, average shortest path length, link Density & modularity) from the NetworkX library (Aric et al., 2008) as well as a visualization for greedy communities.
+:arrow_forward: [**Functions+Demo.py**](https://github.com/THaselhoff/Complex-networks-for-analyzing-the-urban-acoustic-environment/blob/main/Functions%2BDemo.py) -> Refurbished code and functions to apply Frequency Correlation Matrices based Complex Networks for sound data from the (urban) acoustic environment (including a demo on [test_data.csv](https://github.com/THaselhoff/Complex-networks-for-analyzing-the-urban-acoustic-environment/blob/main/test_data.csv)). The demo includes additional network measures (assortativity, average shortest path length, link density & modularity) from the NetworkX library (Aric et al., 2008) as well as a visualization for greedy communities.
 
-:clipboard:	 **test_data.csv** -> Example Dataset of normalized and de-noised power spectra (s. Haselhoff et al. 2023: 2.1 & 3.1) for recordings of one day from one recording device. Use this for a straight forward application for the demo in Appendix C2.
+:clipboard:	 [**test_data.csv**](https://github.com/THaselhoff/Complex-networks-for-analyzing-the-urban-acoustic-environment/blob/main/test_data.csv) -> Example Dataset of normalized and de-noised power spectra (see Haselhoff et al. 2023: 2.1 & 3.1) for recordings of one day from one recording device. Use this for a straight forward application of the demo in [Functions+Demo.py](https://github.com/THaselhoff/Complex-networks-for-analyzing-the-urban-acoustic-environment/blob/main/Functions%2BDemo.py).
 
 
 ## Abstract
