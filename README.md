@@ -3,7 +3,7 @@
 Repsoitory to store the preprint, analyses and code for Haselhoff et al. 2023.
 
 ## Files
-:page_facing_up: [**Complex networks for analyzing the urban acoustic environment.pdf**](https://eartharxiv.org/repository/view/5371/) -> Preprint Manuscript.
+:page_facing_up: [**Complex networks for analyzing the urban acoustic environment.pdf**](https://doi.org/10.1016/j.ecoinf.2023.102326) -> Manuscript.
 
 :arrow_forward: [**Analyses.py**](https://github.com/THaselhoff/Complex-networks-for-analyzing-the-urban-acoustic-environment/blob/main/Analyses.py) -> Code used for analyses in Haselhoff et al. 2023. The data in this study is available on request from the corresponding author. The data is not publicly available due to potential privacy issues.
 
