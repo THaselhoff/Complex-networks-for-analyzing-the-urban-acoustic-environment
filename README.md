@@ -20,4 +20,4 @@ We demonstrate the scope of the proposed method, using one of the world’s most
 ### Literature
 _Aric A. Hagberg, Daniel A. Schult and Pieter J. Swart, “Exploring network structure, dynamics, and function using NetworkX”, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008._
 
-_Haselhoff, T., Braun, T., Fiebig, A., Hornberg, J., Lawrence, B. T., Marwan, N., & Moebus, S. (2023). Complex networks for analyzing the urban acoustic environment. Earth ArXiv. https://doi.org/10.31223/X5J08D._
+Haselhoff, T., Braun, T., Fiebig, A., Hornberg, J., Lawrence, B. T., Marwan, N., & Moebus, S. (2023). Complex networks for analyzing the urban acoustic environment. Ecological Informatics, 78, 102326. https://doi.org/10.1016/j.ecoinf.2023.102326.
